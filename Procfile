@@ -1,0 +1,1 @@
+web: gunicornapp.bot:app
